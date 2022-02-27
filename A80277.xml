@@ -1,0 +1,323 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The complaint of the boutefeu, scorched in his owne kindlings. Or The backslider filled with his owne wayes: in two letters of the ministers of the Presbytery at Carrick-Fergus, to the Lord of Ardes, now in rebellion in Ulster, in Ireland, against the common-wealth of England: with his answer to the first of those letters. Together with some animadversions upon the sayd letters.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80277</idno>
+            <idno type="STC">Wing C5614</idno>
+            <idno type="STC">Thomason E566_18</idno>
+            <idno type="STC">ESTC R206202</idno>
+            <idno type="EEBO-CITATION">99865376</idno>
+            <idno type="PROQUEST">99865376</idno>
+            <idno type="VID">117616</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80277)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117616)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E566[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The complaint of the boutefeu, scorched in his owne kindlings. Or The backslider filled with his owne wayes: in two letters of the ministers of the Presbytery at Carrick-Fergus, to the Lord of Ardes, now in rebellion in Ulster, in Ireland, against the common-wealth of England: with his answer to the first of those letters. Together with some animadversions upon the sayd letters.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matthew Simmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117616:1" rendition="simple:additions"/>
+            <p>THE COMPLAINT OF THE BOVTEFEV, Scorched in his owne Kindlings. OR THE BACKSLIDER Filled with his owne VVayes:</p>
+            <p>In two LETTERS of the Miniſters of the PRESBYTERY at CARRICK-FERGUS, to the Lord of ARDES, Now in Rebellion in ULSTER, in IRELAND, againſt the Common-Wealth of ENGLAND: WITH HIS ANSWER TO THE FIRST of thoſe LETTERS.</p>
+            <p>Together with ſome Animadverſions upon the ſayd LETTERS.</p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <p>London, Printed by <hi>Matthew Simmons,</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117616:2"/>
+            <pb n="1" facs="tcp:117616:2"/>
+            <head>TWO LETTERS FROM THE PRESBYTERY OF CARRICK-FERGUS, to the Lord <hi>Ards,</hi> and his anſwer to the firſt of them.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Right Honourable,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">T</seg>HE preſent ſtrange alteration of affaires, moves us to write our minde freely to your Lordſhip; eſpecially ſince (as it appeares now clearely) you have been the chiefe Author of all thoſe calamities: We would firſt put your Lordſhip in minde of the hazzard you were in, before the Covenant was re<g ref="char:EOLhyphen"/>newed, and how yee complyed with us then, for your owne ſafety, with ſolemnity and forwardneſſe ye renewed the Covenant; Ye your ſelfe firſt moved and framed a Declaration in oppoſition to <hi>Malig<g ref="char:EOLhyphen"/>nant</hi>
+                     <pb n="2" facs="tcp:117616:3"/>
+courſes, and all the preſent enemies of the cauſe of God. In the Propoſitions to be offered to <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> King, you agreed that theſe concerning Religion ſhould be firſt offered, and if theſe were not granted, no other ſhould be preſented: Your Declaration alſo beares very large profeſſion, both in generall, that ye would doe nothing in reference to Religion, without our conſent and advice, and that leaſt God ſhould leave you to fall in errour, and particularly that ye would acknowledge the Kings Demands, when he ſhould give ſatisfaction in ſecuring Reli<g ref="char:EOLhyphen"/>gion, before he were admitted to the exerciſe of his Royall Power, you all along ſhew your ſelfe ready to ſubſcribe all Orders againſt <hi>Malignants,</hi> and ſo by ample profeſſions, engaged us the more deeply to give credit to your Declarations, and truſt your faithfulneſſe: Yet nevertheleſſe your Lordſhip hath had ſecret dealing to bring in <hi>Malignants,</hi> and had correſpondence with them, and all this time has been dealing ſubtilly in your heart, profeſſing one thing, and intending another; which has beene a moſt notorious deceit, to inſnare the people of God to advance your moſt ſyniſtrous ends; Who cou<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> have beleiv'd that your Lordſhip would have avo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ed a Commiſſion from the King, when he yet <gap reason="illegible" resp="#UOM" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ſes as much as his Father, to ſecure Religion, <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> followes wicked counſell, and ſo avowedly to vio<g ref="char:EOLhyphen"/>late that Article of your Declaration; or that yee would owne a wicked aſſociation of <hi>Iriſh Papiſts,</hi> and under colour of ſtrengthening, ſhould have betray<g ref="char:EOLhyphen"/>ed that Garriſon of <hi>Belfaſt.</hi> We muſt be faithfull in warning your Lordſhip (though the Lord knowes what heavineſſe it is to us) that the Lord will re<g ref="char:EOLhyphen"/>ward
+<pb n="3" facs="tcp:117616:3"/>
+you if you repent not for ſuch a betraying of the faithfull ſervants of God, who would have pluc<g ref="char:EOLhyphen"/>ked out their eyes for you, and the Lord will viſit your Familie with ſudden ruine, and irrepairable deſolation for that you have beene ſo grand an in<g ref="char:EOLhyphen"/>ſtrument to deſtroy the worke of God here. We exhort your Lordſhip in the Name of the living God, to whom ye muſt give an account, in haſte to forſake that infamous and ungodly courſe you are in, and adhere to your former profeſſion, other<g ref="char:EOLhyphen"/>wayes all the calamities that will enſue, will be laid on your ſcore. The Lord himſelfe and all the faith<g ref="char:EOLhyphen"/>full will ſet themſelves againſt you, and we will te<g ref="char:EOLhyphen"/>ſtifie of your unfaithfulneſſe to the World ſo long as the Lord ſhall give us ſtrength, we ſhall yet con<g ref="char:EOLhyphen"/>tinue to pray for your Lordſhips converſion, and ſhall expect your Anſwer, remaining.</p>
+                  <closer>
+                     <signed>Your Lordſhips ſervants in all duty, the Miniſtry of the Presbytery.</signed>
+                     <dateline>
+                        <hi>At Carrick-fergus,</hi> 
+                        <date>June 29. 1649.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>HAD not the <hi>ſtrange</hi> and <hi>treaſonable Libell</hi> of the Scots Presbytery at <hi>Belfaſt,</hi> by <hi>them</hi> there pub<g ref="char:EOLhyphen"/>liſhed, the 15. of <hi>Feb.</hi> laſt, prepared that <hi>ſimple</hi> peo<g ref="char:EOLhyphen"/>ple to put on the yoak, who are alwayes ready to be fired by ſuch <hi>Boutefeux,</hi> and led by thoſe <hi>Demagogues</hi> from their <hi>duty,</hi> and their <hi>Intereſt,</hi> to their <hi>ruine,</hi> there had not been at preſent, that ſtrange alteration of affaires in the Province of <hi>
+                  <g ref="char:V">Ʋ</g>lſter;</hi> nor the Miniſters of the Presbytery at <hi>Carrick-fergus</hi> (the ſame men, or ſome of them who were at <hi>Belfast</hi>) had beene furniſhed with an occaſion to write ſo freely to his Lordſhip, and to tell him that he hath beene the
+<pb n="4" facs="tcp:117616:4"/>
+chiefe Author (though themſelves were the <hi>pri<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ones</hi>) of <hi>all theſe Calamities:</hi> That <hi>Libell</hi> of theirs a<g ref="char:EOLhyphen"/>gainſt the <hi>Parliament of England,</hi> the Supreame Au<g ref="char:EOLhyphen"/>thority, under whoſe protection theſe <hi>Incendiaries</hi> lived, hath been Declared againſt by Parliament, and alſo examined by a private Pen, and the Trea<g ref="char:EOLhyphen"/>ſon of it layd out to the World, before theſe effects were <hi>viſible to all,</hi> though they might then have been foreſeen, and were ſo in the <hi>tendency of their cauſe.</hi> They then muſt needs cry down the <hi>Sectaries,</hi> that is (as themſelves interpret) the <hi>Parliament of England</hi>) and will determine that the <hi>Fundamentall</hi> Government of <hi>England</hi> and <hi>Ireland</hi> is by <hi>King and Parliament,</hi> and <hi>ſtirre up the people,</hi> not to depart from it; beleeving (like cleare ſighted men) that <hi>Charles</hi> the ſecond, the haſtily proclaimed King of <hi>Scotland</hi> would moſt <hi>readily</hi> imbrace, and <hi>Cordially</hi> maintaine their <hi>Idoll Covenant:</hi> Yet he that could ſee but as farre as a <hi>Batt</hi> at <hi>Noone,</hi> may very well judge (though hee ſhould onely take the ground from the people that are about him) that <hi>Cu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi> loves the Covenant, as well as a <hi>Scotch Prieſt</hi> loves a <hi>Biſhop:</hi> But their obedient Sonne <hi>Montgomery,</hi> the Lord of the <hi>Ards,</hi> is ſo well <hi>Catechiſed</hi> with that Do<g ref="char:EOLhyphen"/>ctrine of the <hi>Claſſes,</hi> that he accepts a Commiſſion from the ſame <hi>Charles</hi> the ſecond of <hi>Scotland,</hi> which he yet conceales; going firſt, out into <hi>Rebellion</hi> with the moſt of his Nation there (if not all) upon the account of the <hi>Covenant,</hi> to prevent thoſe dan<g ref="char:EOLhyphen"/>gers from the <hi>wicked Sectaries,</hi> of which he had ſo <hi>zealous</hi> and <hi>pious</hi> warning from his <hi>received Ghoſtly Fathers:</hi> Meane while thereby (beſides their owne <hi>Rebellion</hi>) giving ſuch a <hi>Diverſion</hi> to thoſe forces of
+<pb n="5" facs="tcp:117616:4"/>
+the <hi>Engliſh Nation</hi> in <hi>
+                  <g ref="char:V">Ʋ</g>lster,</hi> as held faithfull to their <hi>duty,</hi> that they were not able to contribute any aſſi<g ref="char:EOLhyphen"/>ſtance to Collonell <hi>Jones</hi> for reſiſtance of <hi>Ormond,</hi> and <hi>Inchiquine,</hi> and the reſt of the Iriſh Rebels that now <hi>entred Colonell Jones quarters,</hi> tooke in many out Garriſons, and among other, <hi>Drogheda,</hi> and <hi>Beſieged Dublin it ſelfe,</hi> which alſo had been in great danger to have been loſt, had it not beene with <hi>great pru<g ref="char:EOLhyphen"/>dence</hi> and <hi>foreſight</hi> cleared of all <hi>ſuſpected Vermin</hi> within, and with much <hi>Courage,</hi> and <hi>Gallantry</hi> de<g ref="char:EOLhyphen"/>fended againſt all efforts without, by that worthy Governour <hi>Colonell Jones,</hi> now Leivtenant Generall of the Horſe in <hi>Ireland,</hi> who ought to be <hi>loved,</hi> and <hi>honoured</hi> of all true Engliſh, that would promote the Intereſt of this Nation. Thus theſe Sons of <hi>Bi<g ref="char:EOLhyphen"/>chri,</hi> have <hi>blowne a Trumpet of Rebellion</hi> to all that Kingdome, which themſelves (poore men!) now ſee is not like to ſtabliſh their <hi>bleſſed Covenant,</hi> or their <hi>Canonical Presbytery.</hi> For whil they had thought their <hi>well taught</hi> Son of their Kirk, the Lord of <hi>Arder</hi> had been onely in Armes againſt the <hi>Sectaries;</hi> He, though a <hi>young man,</hi> yet was <hi>too old</hi> for them, he con<g ref="char:EOLhyphen"/>ceales his Commiſſion from <hi>C. S.</hi> till <hi>George Monro</hi> with his <hi>Brigade of Iriſh</hi> from <hi>Ormond</hi> was come to <hi>Carrick-fergus,</hi> and then he declares himſelfe, what Authority he was cloathed with; and what help the <hi>poor Covenant</hi> and <hi>Presbytery</hi> is like to have from him, being Commiſſioned from him, whoſe Leivtenant Generall profeſſes to maintaine the Chriſtian Reli<g ref="char:EOLhyphen"/>gion in the <hi>large Extent,</hi> and not under a <hi>ſtrict notion</hi> of <hi>new invented Names,</hi> themſelves begin to ſuſpect; and <hi>George Monro</hi> was no Diſſembler with them, when they lately at <hi>Carrick-fergus</hi> asked him, whe<g ref="char:EOLhyphen"/>ther
+<pb n="6" facs="tcp:117616:5"/>
+he would take the Covenant or not. He <gap reason="illegible" resp="#UOM" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed <hi>The Devill take the Covenant and you too.</hi> Theſe are the ſweet effects of that <hi>Conſiſteriall Libell,</hi> which yet by <hi>accident,</hi> and <hi>no thankes to them,</hi> may in time proove of <hi>advantage</hi> both to England and Ireland. But no more of that now: It is worth the obſer<g ref="char:EOLhyphen"/>ving how theſe <hi>Backſliders</hi> from their <hi>duty,</hi> are filled with their owne wayes. And t'were good that o<g ref="char:EOLhyphen"/>thers of that Tribe would give over their trade of <hi>Intermedling</hi> with <hi>Civill affaires,</hi> for they finde that <hi>Young men</hi> can over reach them.</p>
+            <p>T'were perhaps good that their Brethren of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> would for their better information conſider what may be their caſe, if <hi>Montroſſe</hi> ſhould bring but a ſmall ſtrength into the North of <hi>Scotland,</hi> to joyne with the malignants there; or if <hi>George Mo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Having ſeiled his buſineſſe in <g ref="char:V">Ʋ</g>lſter</hi> ſhould tranſport thither his <hi>Iriſh Brigade,</hi> might there not be found, men enough in <hi>Scotland</hi> to bring things there once againe to the condition they were in, <hi>before the <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tell of Kilſyth</hi> (conſider it!) And tis ten to one, <hi>Montroſſe</hi> hath made ſo good Obſervtaoin of the cauſe of his <hi>miſfortune at Phillips-bough</hi> that you would never take him in that condition againe, de<g ref="char:EOLhyphen"/>ceive not your ſelves, you that are the <hi>conſcientious</hi> Preſbitery in Scotland <hi>(if any ſuch there be)</hi> either your <hi>Civill</hi> or <hi>Kirke ruine</hi> is <hi>inevitable</hi> in the <hi>way</hi> you <hi>now goe,</hi> you may yet eſtabliſh <hi>hath</hi> if you <hi>will;</hi> there is one way, and it cannot be hid from your eyes, but who can helpe it if you will not ſee, He had need be a <hi>good ſwimmer</hi> that dare imbrace a <hi>ſinking man.</hi>
+            </p>
+            <p>And perhaps ſome would ſay t'were no bad coun<g ref="char:EOLhyphen"/>ſell, if I ſhould adviſe ſome of our <hi>hyper-poly prag<g ref="char:EOLhyphen"/>mons,</hi>
+               <pb n="7" facs="tcp:117616:5"/>
+the <hi>S<hi rend="sup">t</hi>. politiques of the Pulpit,</hi> to <hi>meddle only</hi> with their <hi>proper</hi> worke, leaſt they doe like their poore ſilly Brethren at <hi>Belfaſt,</hi> raiſe more ſuch <hi>De<g ref="char:EOLhyphen"/>vils</hi> then they can <hi>conjure downe:</hi> If they be up, they will breake into their <hi>Circle;</hi> there is nothing ſo ſacred, which theſe they plead for will not <hi>proph<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e,</hi> Oathes, Covenants, Prieſts, Pulpits, any thing, take heed you raiſe not a new Warre, for if you doe, 'twill be moſt miſerable to your ſelves.</p>
+            <p>So much of the Alteration of affaires, and the cauſe thereof.</p>
+            <p>[Wee would firſt put your Lordſhip in mind of the hazzard, <hi>&amp;c.</hi>] Why doe you not ſpeake it <hi>once,</hi> it may be his Lordſhip knowes no ſuch <hi>hazzard,</hi> and <hi>how</hi> was it avoyded; by renewing the Covenant? That ſame can admirable <hi>Panpharma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on,</hi> it cares all diſeaſes infallibly: But what <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was he in danger to looſe his Eſtate in <hi>Ireland</hi> to the <hi>Sectaries,</hi> becauſe he was a <hi>Religious Preſbyterian;</hi> I doe not heare that a<g ref="char:EOLhyphen"/>ny of them have <hi>ſuch opinions:</hi> Certainly he is in danger to loſe it <hi>now</hi> to the <hi>Common-wealth of Eng<g ref="char:EOLhyphen"/>land</hi> for his <hi>Rebellion,</hi> to which <hi>you</hi> his Ghoſtly Fa<g ref="char:EOLhyphen"/>thers <hi>inſtigated</hi> him; you tell him of his Declara<g ref="char:EOLhyphen"/>tion, that he would doe nothing without <hi>your ad<g ref="char:EOLhyphen"/>vice,</hi> leaſt God ſhould let him <hi>fall into errour<g ref="char:punc">▪</g>
+               </hi> Pray where learn't he, that <hi>your advice</hi> was like to be ſo ſure a preſervative, was it not from <hi>
+                  <gap reason="illegible" resp="#UOM" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>?</hi> (his <hi>
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>telous <g ref="char:V">Ʋ</g>ncle</hi> could have taught him better; he hath no ſuch <hi>Hyperbolicall opinion</hi> of you) Are you not aſhamed thus <hi>obliquely</hi> and <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> to <hi>inſi<g ref="char:EOLhyphen"/>nuate your owne infallibility?</hi> Doe you<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> think <hi>you</hi> have led him <hi>ſufficiently into errour,</hi> when you led him into <hi>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bellion</hi> againſt the Common-wealth of
+<pb n="8" facs="tcp:117616:6"/>
+               <hi>England,</hi> he muſt needs be a wiſe man that gives up himſelfe to your leading: When the blinde leads the blinde, you know the event; and this is like to prove a woefull one to <hi>you both.</hi>
+            </p>
+            <p>[Your Lordſhip hath had ſecret dealing with Malignants, <hi>&amp;c.</hi>] And you have openly been ſo, unleſſe <hi>Treaſon, Rebellion,</hi> and to <hi>stirre up to it,</hi> be <hi>Anomalous,</hi> and excepted from that <hi>Generall rule.</hi> And with what <hi>face</hi> doe you tell his Lordſhip of his diſ<g ref="char:EOLhyphen"/>ſembling, and ſubtile dealing, profeſſing one thing, and intending another, to enſnare the people of God to his <hi>ſiniſtrous</hi> ends; why may not his Lord<g ref="char:EOLhyphen"/>ſhip <hi>doe it</hi> as well as <hi>you,</hi> whoſe whole courſe is no<g ref="char:EOLhyphen"/>thing elſe, but <hi>masking under the vizard of the Cauſe of God, and reformation of Religion;</hi> to <hi>impoſe</hi> upon all who have the <hi>weakneſſe</hi> to <hi>truſt you,</hi> while you carry on your <hi>owne ends.</hi> But to your Expreſſe, His Lord<g ref="char:EOLhyphen"/>ſhip were beſt conſider whether there be not ſome<g ref="char:EOLhyphen"/>thing of an <hi>Omen</hi> in it; perhaps while he purſue the Courſe you put him into, his END may be SINISTROUS. It ſeems incredible to you, he would take a Commiſſion from the King, while he refuſes as much as his Father, to <hi>ſecure</hi> Religion, and follow <hi>wicked Counſell.</hi> Why may not the King of <hi>Scotland</hi> follow <hi>other mens wicked Counſell,</hi> as well as <hi>your wicked Counſell;</hi> for who ſhall aſſure us, you will give him better then you gave the Lord of <hi>Ardes,</hi> when you put him <hi>into Rebellion</hi> againſt the Common-wealth of <hi>England.</hi>
+            </p>
+            <p>But becauſe you talke of <hi>ſecuring</hi> of Religion, tell us what <hi>that ſame Religion is,</hi> that needs to be <hi>ſecured</hi> by Kings? was't not that <hi>true</hi> Religion that once grew and ſpread in the World, and made a <hi>Conquest
+<pb n="9" facs="tcp:117616:6"/>
+of the Roman Sword,</hi> againſt all the <hi>power</hi> of the <hi>Em<g ref="char:EOLhyphen"/>pire,</hi> ſet on worke by the Devill to oppoſe and en<g ref="char:EOLhyphen"/>deavour to root it out: Religion properly ſo cal<g ref="char:EOLhyphen"/>led, can <hi>maintaine it ſelfe</hi> without <hi>Externall power;</hi> 'tis their Religion that calls for defence from the <hi>ſe<g ref="char:EOLhyphen"/>cular Arme,</hi> that is not able to defend it ſelfe from the <hi>appearance of truth,</hi> which is <hi>great,</hi> and <hi>will pre<g ref="char:EOLhyphen"/>vail</hi> over all Antichriſtian <hi>forms</hi> and <hi>clouds.</hi> But [you will be faithfull to his Lordſhip now] 'tis well you <hi>will at last,</hi> you ſhould have been <hi>ſo,</hi> when you put him into <hi>Rebellion.</hi> For your denunciation and Pro<g ref="char:EOLhyphen"/>pheſie, we will not much contradict it; your Grand-ſire <hi>Caiaphas</hi> hit it once, and ſo did that ſhadow ray<g ref="char:EOLhyphen"/>ſed by the Witch of <hi>Endor,</hi> when he told <hi>Saul,</hi> that to morrow, he and his Sonnes ſhould be with him; but if this be <hi>his doome</hi> for his <hi>Rebellion,</hi> what will become of you that <hi>put him on to it.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The Lord of <hi>Ardes</hi> Anſwer to the Presbytery at <hi>Carrick-fergus.</hi>
+                  </head>
+                  <opener>
+                     <salute>Reverend Friends,</salute>
+                  </opener>
+                  <p>I Cannot but with unexpreſſible griefe reſent the bitter expreſſions, and ill grounded wrong aſ<g ref="char:EOLhyphen"/>perſions you are pleaſed to caſt upon me in your Letter, as if I had ſecretly brought in Sir <hi>George Monroe</hi> his party into this Countrey, and ſo have been the chiefe Author of all theſe preſent diſtra<g ref="char:EOLhyphen"/>ctions; whereof God, the ſearcher of hearts is my witneſſe, I am free (notwithſtanding of the jealou<g ref="char:EOLhyphen"/>ſies raiſed upon ſome expreſſions in that Letter of Sir <hi>George Monroe</hi> to Sir <hi>Robert Stewart</hi> which was in<g ref="char:EOLhyphen"/>tercepted)
+<pb n="10" facs="tcp:117616:7"/>
+and that among other, many preva<g ref="char:EOLhyphen"/>lent reaſons and motions (too long here to ex<g ref="char:EOLhyphen"/>preſſe) induoing at this time, to owne his Maje<g ref="char:EOLhyphen"/>ſties Commiſſion. It was not the betraying, but the ſecuring of theſe Garriſons from Sir <hi>George</hi> his par<g ref="char:EOLhyphen"/>ty; which in our diſtracted and disjoynted condi<g ref="char:EOLhyphen"/>tion, for want of Authority, and by reaſon of the Souldiers affection to their former Officers, were likely to be rendered to him. The Lord he knowes, that the preſervation of the eſtabliſhed Church-go<g ref="char:EOLhyphen"/>vernment, your peace, the good and quiet of this poore corner, and the advancement of Religion, according to the Covenant (all which by private underminers, to your owne knowledge, were in ap<g ref="char:EOLhyphen"/>parent hazard of ruine) are the chiefe reaſons which induces me to this courſe, of making uſe of that Authority, as the onely meane to ſecure us, (being ſo united under command) from the vio<g ref="char:EOLhyphen"/>lence of oppoſers hereunto. It requeſt you there<g ref="char:EOLhyphen"/>fore, and untill my carriage (after that now I am cloathed with Authority) may witneſſe whe<g ref="char:EOLhyphen"/>ther my intentions and reſolutions be not according to my profeſſion, you would be pleaſed to have more charitable thoughts of me, and reſt aſſured that I am,</p>
+                  <closer>
+                     <signed>Your affectionate faithfull Friend and Servant, <hi>MONTGOMERY.</hi>
+                     </signed>
+                     <dateline>Belfaſt, <date>June 30. 1649.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>THE poore <hi>Thunder-ſtricken</hi> Lord anſwers with the <hi>humility</hi> that becomes a <hi>good Son</hi> of the <hi>Kirke,</hi> he now ownes <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Commiſſion, and thereby confeſſeth himſelfe <hi>guilty of Treaſon</hi> to the Common-wealth of <hi>England,</hi> but dare not owne his juggling
+<pb n="11" facs="tcp:117616:7"/>
+with <hi>George Monroe,</hi> and Sir <hi>Robert Stuart,</hi> becauſe perhaps that might be <hi>Treaſon againſt the Presbyterie, and Covenant,</hi> which may not be forgiven him, nei<g ref="char:EOLhyphen"/>ther in this World, nor that to come; neither dares he tell the reaſons why he did not declare his Commiſ<g ref="char:EOLhyphen"/>ſion till <hi>then;</hi> nor is it convenient for me to tell them, though they cannot be unknowne to him that is ac<g ref="char:EOLhyphen"/>quainted throughly with the ſtate of thoſe affaires: The poore Man hath learned from them to <hi>appeale to God</hi> too; take heed my Lord, you know <hi>who</hi> was wont to <hi>doe ſo,</hi> and the World hath ſeen that God will not be <hi>mocked,</hi> nor is an <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> but an <hi>Omnipotent, and Omniſ<g ref="char:EOLhyphen"/>cient God,</hi> that <hi>judgeth</hi> in the Earth, whether the <hi>New Rebels of <g ref="char:V">Ʋ</g>lſter</hi> beleive it or not. But now your Lord<g ref="char:EOLhyphen"/>ſhip is clothed with Authority, we ſhall ſee how <hi>Georg Menro</hi> will give you <hi>leave</hi> to uſe it, which the Preſby<g ref="char:EOLhyphen"/>tery have told you in their next Letter, they doe not beleeve will be for the good of <hi>Religion,</hi> and the <hi>Cove<g ref="char:EOLhyphen"/>nant,</hi> being Aſſociate with the Enemies of them both, indeed your Lordſhip is in <hi>bad tearmes</hi> with them, and with <hi>all men elſe,</hi> you had better been ſtill perſevering.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Right Honourable,</salute>
+                  </opener>
+                  <p>WEE received yours, wherein you with greife reſent our bitter expreſſions, and ill ground<g ref="char:EOLhyphen"/>ed wrong aſperſions, (as much as to call them falſe) which you ſay we caſt upon your Lordſhip. Truely our expreſſions flowe from the bitterneſſe of greife and ſorrow, and not diſaffection towards you: You have often knowne our aboundant affecti<g ref="char:EOLhyphen"/>ons, and endeavour to ſerve your Lordſhip in our ſta<g ref="char:EOLhyphen"/>tions. Theſe which your Lordſhip cals wrong aſper<g ref="char:EOLhyphen"/>ſions, are the words of truth and ſoberneſſe, Inter<g ref="char:EOLhyphen"/>cepted letters from that party, together with Colonell
+<pb n="12" facs="tcp:117616:8"/>
+                     <hi>Conawayes</hi> diſcovery of that which is now clear, w<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> many other circumſtances of your Lordſhips latter carriage, and the exact correſpondence betweene Co<g ref="char:EOLhyphen"/>lonell <hi>Monro's</hi> motions and yours, does evince the re<g ref="char:EOLhyphen"/>ality of our aſſertions, as well as his owne Letter, which we beleive ſpake neither affection, nor a con<g ref="char:EOLhyphen"/>jecture of your Lordſhips deſigne, being written to ſuch a cloſe friend. It is a ſad jeſt to your Lordſhip to tell us that it was the ſecuring of theſe Garriſons from Colonell <hi>George Monroe</hi> that moved you to put on that commiſſion; wheras by the conjunction of your Lord<g ref="char:EOLhyphen"/>ſhips forces and command, he lyes before this Garri<g ref="char:EOLhyphen"/>ſon to deſtroy it. It were a good proofe of the reality of your purpoſe, if yee ſhould with your whole pow<g ref="char:EOLhyphen"/>er urge him to remove, which if yee were cordiall in, were eaſy to doe. Neither know we how to beleive that your Lordſhips preſent courſe is intended for the good of Religion and the Covenant, when yee are not onely aſſociate with the enemies of both, but your commiſſion, as we are informed, ſubjects you to the immediate commands of the <hi>Marqueſſe</hi> of <hi>Ormond,</hi> whoſe infamous and irreligious peace made with the Rebels, may eaſily tell us what eſtabliſhment to the Covenant, or Preſbyteriall government we may ex<g ref="char:EOLhyphen"/>pect from his Orders and Authority, his owne printed ſpeech to the councell of <hi>Kilkenny,</hi> explaines to us his reall reſolutions concerning Religion, to maintaine Chriſtian Religion in the large extent, and not under a ſtrict notion of new invented names, and beſides the King yet refuſing to ſecure Religion, how ſhall you eſtabliſh it, except ye doe very far tranſgreſſe the li<g ref="char:EOLhyphen"/>mits of your commiſſion: which we beleive you deſire no man to thinke. In a word your Lordſhip hath but reaſſumed the old quarrell which the Engagers the
+<pb n="13" facs="tcp:117616:8"/>
+laſt yeare, and before them, <hi>James Grahame</hi> and the <hi>Malignants</hi> in <hi>England</hi> were of old purſuing: Neither we are confident, will it proſper better in your hands nor it did in theirs. The Lord in Juſtice hath declared his diſpleaſure againſt that courſe, &amp; will do ſo againſt all them who ſeek to advance the King againſt Chriſts throne, and even while he refuſes to give Chriſt his due firſt. We would therefore yet againe as lovers of the ſtanding of Chriſts Kingdome and of your Lord<g ref="char:EOLhyphen"/>ſhips ſalvation, as the Meſſengers of God beſeech your Lordſhip before you run a further hazard of the Lords wrath, to leave of that ungodly courſe, and take bet<g ref="char:EOLhyphen"/>ter meanes to effectuate the good of Religion. Re<g ref="char:EOLhyphen"/>member thoſe who honour God he will honour, and thoſe who deſpiſe him, ſhall be lightly eſteemed of: Whereas your Lordſhip deſires our charity towards you; truely as we have ever teſtified a due reſpect to your ſelfe and family, we ſhall yet continue<g ref="char:punc">▪</g> but you have involved your Lordſhip already ſo far in the guilt of unfaithfulneſſe to the cauſe of God and your owne ſubſcriptions, that we cannot but teſtifie againſt the courſe you are in, and denounce judgement upon your perſon, family, and all your party, till the Lord perſwade your heart to return, which ſhall be our fer<g ref="char:EOLhyphen"/>vent deſire, and ſhall remaine,</p>
+                  <closer>
+                     <signed>Your Lordſhips ſervants in all dutifull obſervance, the Ministers of the Presbytery.</signed>
+                     <dateline>At Carrick-fergus, <date>the 2 of July, 1649.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>TO the reply of the Presbytery, there remaines lit<g ref="char:EOLhyphen"/>tle to ſay, they here diſcovered his falſhood, and tell him by whom, and all his humble and calme lan<g ref="char:EOLhyphen"/>guage gaines him nothing of credit with them, they now ſee, he that could be drawn <hi>from his fidelity to the
+<pb n="14" facs="tcp:117616:9"/>
+Common-wealth of England,</hi> by the Presbytery at <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> may alſo be <hi>drawne from them,</hi> by the glorious <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>miſes of a pretended King; they will <hi>truſt him</hi> no <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they are <hi>inexorable.</hi> And ſo doe the Preſbytery <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> deale with thoſe that will not <hi>ſerve their turn <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſhadow</hi> of it here in <hi>England,</hi> though they <hi>want a <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>-ſtory</hi> for the forming thoſe <hi>dreadfull Thunder-bolt,</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they make the Pulpit ſerve for a <hi>ſhift,</hi> to <hi>blow the Tr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>pet to Rebellion,</hi> and a <hi>new War;</hi> what would our <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> doe, if they had the <hi>power</hi> of the <hi>Kirk of Scotland;</hi> T<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> poore Viſcount <hi>Montgomery</hi> lyes under their Prophe<g ref="char:EOLunhyphen"/>ſies and Fulminations, which may be <hi>like</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> come upon him, though he ſhould repent his ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ule <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>gainſt the Covenant.</p>
+            <p>And for a cloſe of all, I ſhall aske them onely theſe Queſtions. Whether it be not as dangerous for <hi>
+                  <gap reason="illegible" resp="#UOM" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>
+               </hi> of men, as for <hi>another,</hi> to ſet up themſelves againſt the <hi>Throne and Power of the Lord Jeſus Chriſt?</hi> And whether it be not a great part of his Kingly office, to rule in the <hi>underſtandings,</hi> and <hi>conſciences</hi> of <hi>Men?</hi> Whether the true light that lightneth every one who commeth in<g ref="char:EOLhyphen"/>to the World, may not <hi>give out that light</hi> in what <hi>
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ner</hi> and <hi>meaſure,</hi> and by <hi>what meanes he pleaſeth?</hi> And whether they doe not <hi>uſurpe his Throne,</hi> that ſeeke to <hi>oppoſe</hi> thoſe <hi>beames,</hi> or <hi>limit</hi> and <hi>preſent</hi> the <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>And whether the Presbytery be not every where more imployed in this worke, then is for their <hi>ſafety,</hi> if the <hi>wrath</hi> of the <hi>Lambe be kindled?</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
